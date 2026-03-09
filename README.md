@@ -82,7 +82,7 @@ Some AWS services I practice:
 * EFS
 * Snapshot
 * CloudWatch
-* AWS Load Balancer
+* Load Balancer
 * Lambda
   
 
