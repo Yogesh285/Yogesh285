@@ -186,7 +186,7 @@ Monitoring stack:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh285&theme=tokyonight"/>
 </p>
 
 ---
@@ -194,7 +194,7 @@ Monitoring stack:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Yogesh285/Yogesh285/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
