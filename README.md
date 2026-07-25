@@ -173,30 +173,23 @@ Monitoring stack:
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/> 
 </p>
-
----
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yogesh285&show_icons=true&theme=tokyonight"/>
-</p>
-
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh285&theme=tokyonight"/>
+</p> 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh285&layout=compact&theme=tokyonight"/>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Yogesh285/Yogesh285/output/github-contribution-grid-snake.svg"/> 
 </p>
-
 ---
 
 # 🚀 Featured Projects
