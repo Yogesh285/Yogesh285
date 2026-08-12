@@ -84,6 +84,10 @@ Some AWS services I practice:
 * CloudWatch
 * Load Balancer
 * Lambda
+* EKS
+* ECR
+* SNS
+* CloudFormation
   
 
 ---
